@@ -15,7 +15,8 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-41.0.0.tar.gz",
     "react-native-web": "~0.13.12",
     "vue-native-core": "0.2.0",
-    "vue-native-helper": "0.2.0"
+    "vue-native-helper": "0.2.0",
+    "vue-native-router": "^0.2.1"
   },
   "devDependencies": {
     "@babel/core": "7.0.0",
